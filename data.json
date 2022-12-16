@@ -1,0 +1,199 @@
+{
+    "Name": "Harvard University",
+    "Description": "Harvard University is the oldest higher education institution in USA offering admission in Fall, Winter, Spring or Summer intakes. Established in 1636, Harvard has three campus locations- Cambridge, Allston, and Boston. The Ivy League USA institution is home to 16% international students hailing from 150+ countries including 613 Indian students and scholars.\nHarvard University acceptance rate is merely 4.7% for undergraduate programs and 10.3% for MBA program, for the Fall intake. There are around 90 undergraduate degrees and 150 graduate degree courses to choose from. Of these, popular Harvard University programs include Business Administration, Law, and Medicine. The eligibility requirements for Harvard is similar to any other Ivy League colleges, yet admission are granted to only academic elites. Applications for 2023 admissions commence from mid-August. Check Out: Harvard Application Process\nAverage Harvard University fees for an Indian student is 51,900 USD (38.31 lakh INR) per year, marking it as a high-end university in terms of cost. To cover these expenses, there are need-based Harvard University scholarships, which benefits around 60% of new entrants. There\u2019s hardly any global company where Harvard graduates are not welcome because of its legacy of over 385 years. EMBA graduates of Harvard earn an average annual salary of 182,000 USD per annum. Harvard graduates are highly regarded all over the world. Top employers of the university include Google, Facebook, Apple, IBM, Morgan Stanley, and several others.",
+    "Fees & Deadline": [
+        {
+            "Program": "M.B.A",
+            "Application Deadline": [
+                "Financial Aid Application Deadline For Summer (1st Jun 2023)",
+                "Financial Aid Application Deadline For Spring (1st Mar 2023)",
+                "Financial Aid Application Deadline For Fall (1st Nov 2022)",
+                "Application Deadline For Summer 2023 Intake (1st Aug 2023)",
+                "Application Deadline For Spring 2023 Intake (15th Apr 2023)",
+                "Application Deadline For Fall 2023 (1st Dec 2022)",
+                "$81,374 /Yr"
+            ],
+            "Fees": "\u20b966.2 L/Yr\n$81,374 /Yr"
+        },
+        {
+            "Program": "M.S Data Science",
+            "Application Deadline": [
+                "Financial Aid Application Deadline For Summer (1st Jun 2023)",
+                "Financial Aid Application Deadline For Spring (1st Mar 2023)",
+                "Financial Aid Application Deadline For Fall (1st Nov 2022)",
+                "Application Deadline For Summer 2023 Intake (1st Aug 2023)",
+                "Application Deadline For Spring 2023 Intake (15th Apr 2023)",
+                "Application Deadline For Fall 2023 (1st Dec 2022)",
+                "$61,570 /Yr"
+            ],
+            "Fees": "\u20b950.1 L/Yr\n$61,570 /Yr"
+        },
+        {
+            "Program": "M.B.A Entrepreneurship",
+            "Application Deadline": [
+                "Financial Aid Application Deadline For Summer (1st Jun 2023)",
+                "Financial Aid Application Deadline For Spring (1st Mar 2023)",
+                "Financial Aid Application Deadline For Fall (1st Nov 2022)",
+                "Application Deadline For Summer 2023 Intake (1st Aug 2023)",
+                "Application Deadline For Spring 2023 Intake (15th Apr 2023)",
+                "Application Deadline For Fall 2023 (1st Dec 2022)",
+                "$61,570 /Yr"
+            ],
+            "Fees": "\u20b950.1 L/Yr\n$61,570 /Yr"
+        },
+        {
+            "Program": "M.B.A Finance",
+            "Application Deadline": [
+                "Financial Aid Application Deadline For Summer (1st Jun 2023)",
+                "Financial Aid Application Deadline For Spring (1st Mar 2023)",
+                "Financial Aid Application Deadline For Fall (1st Nov 2022)",
+                "Application Deadline For Summer 2023 Intake (1st Aug 2023)",
+                "Application Deadline For Spring 2023 Intake (15th Apr 2023)",
+                "Application Deadline For Fall 2023 (1st Dec 2022)",
+                "$61,570 /Yr"
+            ],
+            "Fees": "\u20b950.1 L/Yr\n$61,570 /Yr"
+        },
+        {
+            "Program": "M.Eng Computational Science and Engineering",
+            "Application Deadline": [
+                "Financial Aid Application Deadline For Summer (1st Jun 2023)",
+                "Financial Aid Application Deadline For Spring (1st Mar 2023)",
+                "Financial Aid Application Deadline For Fall (1st Nov 2022)",
+                "Application Deadline For Summer 2023 Intake (1st Aug 2023)",
+                "Application Deadline For Spring 2023 Intake (15th Apr 2023)",
+                "Application Deadline For Fall 2023 (1st Dec 2022)",
+                "$61,570 /Yr"
+            ],
+            "Fees": "\u20b950.1 L/Yr\n$61,570 /Yr"
+        },
+        {
+            "Program": "M.S Liberal Arts - Software Engineering",
+            "Application Deadline": [
+                "Financial Aid Application Deadline For Summer (1st Jun 2023)",
+                "Financial Aid Application Deadline For Spring (1st Mar 2023)",
+                "Financial Aid Application Deadline For Fall (1st Nov 2022)",
+                "Application Deadline For Summer 2023 Intake (1st Aug 2023)",
+                "Application Deadline For Spring 2023 Intake (15th Apr 2023)",
+                "Application Deadline For Fall 2023 (1st Dec 2022)",
+                "$61,570 /Yr"
+            ],
+            "Fees": "\u20b950.1 L/Yr\n$61,570 /Yr"
+        }
+    ],
+    "Courses": [
+        {
+            "Name": "M.B.A",
+            "Duration": "(2 year)",
+            "Fee": "INR 50.1 - 66.2 L/Yr",
+            "Available Courses": "3 Courses",
+            "Exam Score": "IELTS7.5|TOEFL109|GRE326",
+            "Application Deadline": "01 Jun, 2023"
+        },
+        {
+            "Name": "M.S",
+            "Duration": "(1 year - 2 year)",
+            "Fee": "INR 18.5 - 50.1 L/Yr",
+            "Available Courses": "26 Courses",
+            "Exam Score": "TOEFL100|IELTS7|GRE292",
+            "Application Deadline": "01 Jun, 2023"
+        },
+        {
+            "Name": "M.D",
+            "Duration": "(5 year)",
+            "Fee": "INR 49.4 L/Yr",
+            "Available Courses": "1 Course",
+            "Exam Score": "TOEFL90|IELTS6.5|GRE292",
+            "Application Deadline": "01 Jun, 2023"
+        },
+        {
+            "Name": "L.L.M",
+            "Duration": "(1 year)",
+            "Fee": "INR 50.1 L/Yr",
+            "Available Courses": "1 Course",
+            "Exam Score": "TOEFL109|IELTS7.5|GRE292",
+            "Application Deadline": "01 Jun, 2023"
+        },
+        {
+            "Name": "Ph.D Computer Science",
+            "Duration": "(5 year)",
+            "Fee": "INR 25 L/Yr",
+            "Available Courses": "1 Course",
+            "Exam Score": "TOEFL90|IELTS6.5|GRE292",
+            "Application Deadline": "01 Jun, 2023"
+        },
+        {
+            "Name": "B.A/B.Sc",
+            "Duration": "(4 year)",
+            "Fee": "INR 49.4 L/Yr",
+            "Available Courses": "1 Course",
+            "Exam Score": "TOEFL80|IELTS6.5|ACT32",
+            "Application Deadline": "01 Jan, 2023"
+        }
+    ],
+    "Ranking": {
+        "World University Rank": {
+            "Overall": "#5",
+            "Business": "#3"
+        },
+        "US News Rank": {
+            "Medicine": "#1",
+            "Law": "#4",
+            "Business": "#5",
+            "Engineering": "#21",
+            "Education": "#2"
+        }
+    },
+    "Rating": {
+        "Academic": "9.0/10",
+        "Accommodation": "8.5/10",
+        "Faculty": "9.5/10",
+        "Infrastructure": "9.5/10",
+        "Placement": "9.0/10",
+        "Social Life": "10.0/10"
+    },
+    "Admission": {
+        "Portal Link": "https://college.harvard.edu/admissions/application-process/application-requirements",
+        "Early Admission Deadline": "November 1",
+        "Regular Decision Deadline": "January 1",
+        "Financial Aid Application Deadline": "February 1"
+    },
+    "Acceptance Rate": {
+        "Undergraduate": {
+            "Rate": "5.2%",
+            "Total Applicants": "268494",
+            "Total Enrolled": "13844"
+        },
+        "Graduate": {
+            "Rate": "5.1%",
+            "Total Applicants": "486601",
+            "Total Enrolled": "15250"
+        }
+    },
+    "Enrollment": {
+        "Enrollment": {
+            "Harvard University Enrollment": "38934",
+            "Undergraduate Enrollment": "13844",
+            "Graduate Enrollment": "15250"
+        },
+        "Graduation Rate": "96.8%"
+    },
+    "Attendance Cost": {
+        "Tuition Fees": {
+            "Undergraduate Programs": "Post Graduate Program\n\u20b91,513,668 / Year",
+            "Post Graduate Programs": "\u20b94,285,389 / Year"
+        },
+        "On Campus": {
+            "Rooms": "\u20b9889,239 / Year",
+            "Meals": "\u20b9549,722 / Year",
+            "Other Expenses": "\u20b9211,588 / Year",
+            "Books and Supplies": "Meals\n\u20b9549,722 / Year"
+        }
+    },
+    "Campus Location": {
+        "Website": "https://www.harvard.edu/",
+        "Telephone": "+1-617-495-1000",
+        "Email": "college@fas.harvard.edu",
+        "Address": "Cambridge, MA 02138"
+    }
+}
